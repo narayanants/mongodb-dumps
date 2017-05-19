@@ -1,0 +1,6 @@
+{ 
+    "_id" : ObjectId("50c73fbf95980f955ed7cc83"), 
+    "user" : "regular", 
+    "readOnly" : false, 
+    "pwd" : "cf3561487f526c5b146535d0babd199d"
+}
